@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<title>ENERGYM</title>
+<meta charset="utf-8"/>
+<LINK REL=StyleSheet HREF="css/style.css" TYPE="text/css" MEDIA=screen>
+<link rel="shortcut icon" href="favicon.ico">
+<link rel='stylesheet' href='cf_html/estilos.css'>
+<!--<link href="css/bootstrap.css" rel="stylesheet">-->
+</head>
+
+<body>
+<div id="page">
+	<div id="header">
+			<h1><a href="#">EnerGym SYS</a></h1>
+			<div id="logo"><hl><img src="images/logo3.png" alt=""></hl></div>
+			<div class="description">Sistema de Gestión de Gimnasios</div>
+
+	</div>
+	
+	<div id="mainarea">
+	<div id="sidebar">
+		<div id="sidebarnav">
+		<a class="active" href="#">Home</a>
+		<a href="#">Services</a>
+		<a href="#">Pricing</a>
+		<a href="#">Contact Us</a>
+		<a href="#">Contact Us</a>
+		</div>
+	
+		<h2>TESTIMONIALS</h2>
+		<div class="widget">
+		Lorem ipsum dolor sit amet, consectetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+		<br/>
+		<strong>Joe Bloggs</strong>
+		<br/><br/>
+		Lorem ipsum dolor sit amet, consectetur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+		<br/>
+		<strong>Joe Bloggs</strong>
+		</div>
+	</div>
+	
+	<div id="contentarea">
+		 <form class='contacto'>
+           <div id="titulo">Datos del Cliente:</div>
+		   <input type="text" class="form-control" placeholder="Nombre completo">
+		<p>
+		   <input type="textdni" class="form-control" placeholder="DNI"> &nbsp; &nbsp; &nbsp; 
+			Sexo:
+			<select name="Sexo">
+			<option>Femenino</option>
+			<option>Masculino</option>
+			
+			</select>
+	  
+		</p>
+	<p><label>Fecha de nacimiento:<input type="date" name="fecha"></label></p>
+	<input type="text" class="form-control" placeholder="Correo electrónico">
+	<p>
+	<input type="text2" class="form-control" placeholder="Peso"> &nbsp; &nbsp; &nbsp;
+	<input type="text2" class="form-control" placeholder="Altura">
+	</p>
+	<input type="text" class="form-control" placeholder="Domicilio">
+	<input type="text" class="form-control" placeholder="Número de teléfono">
+	<p>Clase Horario
+		<label><input type="checkbox" >Zumba &nbsp; <input type="time" name="hora"></label>
+        <label><input type="checkbox" >Cardio</label>
+		<label><input type="checkbox" >Crossfit</label>
+		<label><input type="checkbox" >Complementos</label>
+		<label><input type="checkbox" >Step</label>
+		<label><input type="checkbox" >Aerobic</label>
+		<label><input type="checkbox" >Spinning</label>
+		<label><input type="checkbox" >Entrenamiento funcional</label>
+		<label><input type="checkbox" >Pilates</label>
+		<label><input type="checkbox" >Yoga</label>
+	</p>
+	<p><label>Horario:<input type="time" name="hora"></label></p>
+  </fieldset>
+
+  <p>
+    <input type="submit" value="Guardar">
+  </p>
+        </form>
+	</div>
+	
+	
+	</div>
+	
+	<div id="footer">
+		<p>Diseñado por JabberJay Software Inc. Derechos reservados UTN - FRRe - 2018</p>
+	</div>
+
+
+</div>
+</body>
+
+</html>
