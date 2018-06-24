@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+<title>ENERGYM</title>
+<meta charset="utf-8" />
+<LINK rel=StyleSheet href="style.css" type="text/css">
+<link rel="shortcut icon" href="favicon.ico">
+</head>
+
+<body>
+<div id="page">
+	<div id="header">
+			<h1><a href="#">EnerGym SYS</a></h1>
+			<div id="logo"><hl><img src="images/logo3.png" alt=""></hl></div>
+			<div class="description">Sistema de Gestión de Gimnasios</div>
+			<div id="logout"><ul class="salida"><li><a href="#">Cerrar Sesión</a></li></ul></div>
+	</div>
+	
+	<div class="sidebar">
+		<ul class="nav">
+			<br>
+			<p class="fotouser" align="center"><img src="images/men-ava.png" width="80"></p>
+			<h3 id="user">Gerente</h3>
+			<li><a class="active" href="#">Calendário</a></li>
+			<li><a href="#">Usuários</a></li>
+			<li><a href="#">Cuotas</a></li>
+			<li><a href="#">Entrenadores</a></li>
+			<li><a href="#">Clientes</a></li>
+			<li><a href="#">Ganancias</a></li>
+			<li><a href="#">Deudas</a></li>
+			<li><a href="#">Egresos</a></li>
+			<li><a href="#">Ingresos</a></li>
+		</ul>
+	</div>
+	
+	<div id="contentarea">
+		
+		
+	</div>
+	
+	<div id="footer">
+		<p>Diseñado por JabberJay Software Inc. Derechos reservados - 2018</p>
+	</div>
+
+
+</div>
+</body>
+
+</html>
